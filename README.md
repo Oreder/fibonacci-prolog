@@ -1,2 +1,4 @@
 # fibonacci-prolog
-Find Fibonacci number in Prolog
+Fibonacci number in Prolog programming.
+
+Author: Binh D. Nguyen
