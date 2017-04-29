@@ -3,7 +3,7 @@
 		Copyright (c) 
 		
  Written by: Binh D. Nguyen
- Comments: Find maximum of 2 and 3 numbers
+ Comments: Fibonacci number program
 *************************************************/
 
 predicates
