@@ -39,5 +39,5 @@ clauses
   	fhelp(N1,Prev2,New_Prev,Result).
 
 goal
-  fwFb(5,X1),
+  fwFb1(5,X1),
   fwFb2(5,X2).
